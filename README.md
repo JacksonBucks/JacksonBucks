@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![image](https://user-images.githubusercontent.com/129083724/227983733-870c691e-23a5-4f4d-aa2a-0480caef5fd1.png)
 <!--
 **JacksonBucks/JacksonBucks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
